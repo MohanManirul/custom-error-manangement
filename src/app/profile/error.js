@@ -12,8 +12,4 @@ export default function Error({ error }) {
 }
 
 
- README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/MohanManirul/custom-error-manangement.git
-git push -u origin main
+
