@@ -1,6 +1,6 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-    distDir:'build'
+    'X-Content-Type-Options':'nosniff',
 };
 
 export default nextConfig;
